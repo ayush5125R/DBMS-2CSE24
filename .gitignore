@@ -1,0 +1,6 @@
+# Ignore XAMPP completely
+xampp/
+
+# Ignore logs and temp files
+*.log
+*.tmp
